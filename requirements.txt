@@ -2,3 +2,6 @@ pandas
 numpy
 scikit-learn
 python-doctr
+layoutparser[ocr]
+langchain-docling
+docling

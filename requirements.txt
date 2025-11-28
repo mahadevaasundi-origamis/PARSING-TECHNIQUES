@@ -5,3 +5,5 @@ python-doctr
 layoutparser[ocr]
 langchain-docling
 docling
+huggingface_hub[hf_xet]
+toon-python

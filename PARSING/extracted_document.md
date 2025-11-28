@@ -51,7 +51,7 @@ Shipping Address
 
 
 Shipping Address
-(INR). = 25099.20. 2, Item Code. = 888071. 2, Item Desc. = Brand: Lo Foods Gluten Free Zero Suga r Cookie (Pista chios,. 2, HSN.Code = 19053100. 2, Qty. = 60. 2, MRP. = 99.00 60.407. 2, Unit Base Cost.(INR) = . 2, Taxable Value (INR). = 3624.41. 2, CGST.Rate = 0.00. 2, CGST.Amt (INR) = 0.00. 2, SGST/UGST.Rate = 0.00. 2, SGST/UGST.Amt (INR) = 0.00. 2, IGST.Rate = 18.00. 2, IGST.Amt (INR) = 652.39. 2, CESS.Rate = 0.00. 2, CESS.Amt (INR) = 0.00. 2, Additional CESS. = 0.00. 2, Total (INR). =
+(INR). = 25099.20. 2, Item Code. = 888071. 2, Item Desc. = Brand: Lo Foods Gluten Free Zero Suga r Cookie (Pista chios,. 2, HSN.Code = 19053100. 2, Qty. = 60 99.00. 2, MRP. = 60.407. 2, Unit Base Cost.(INR) = . 2, Taxable Value (INR). = 3624.41. 2, CGST.Rate = 0.00. 2, CGST.Amt (INR) = 0.00. 2, SGST/UGST.Rate = 0.00. 2, SGST/UGST.Amt (INR) = 0.00. 2, IGST.Rate = 18.00. 2, IGST.Amt (INR) = 652.39. 2, CESS.Rate = 0.00. 2, CESS.Amt (INR) = 0.00. 2, Additional CESS. = 0.00. 2, Total (INR). =
 
 
 
@@ -78,13 +78,14 @@ GST Compensation Cess
 0.00
 GST Additional Cess
 0.00
-Amount in Words :,  = Amount in Words :. Amount in Words :, Total Tax (INR) Grand Total (INR) = Amount in Words :. Amount in Words :, 2772.09 40318.80 = Amount in Words :. Prepared By,  = Verified By. Prepared By, Total Tax (INR) Grand Total (INR) = . Prepared By, 2772.09 40318.80 = 
+Amount in Words :,  = Amount in Words :. Amount in Words :,  = Amount in Words :. Amount in Words :, Total Tax (INR) Grand Total (INR) = . Amount in Words :, 2772.09 40318.80 = . Prepared By,  = Verified By. Prepared By,  = Authorised Signature. Prepared By, Total Tax (INR) Grand Total (INR) = . Prepared By, 2772.09 40318.80 = 
 
 
 
 Terms And Conditions
 1.  This purchase order ('PO') is an offer by the Purchaser directed towards the Seller for the purchase of SKU's mentioned in the table above ('Goods') in accordance with and subject to the terms and conditions contained herein. This offer shall be deemed to be accepted by the Seller with the passage of 7 (seven) working days from the date of the PO, unless the Seller provides strict acceptance or rejection of the offer within the said timeline.
-2.  Seller shall deliver the Goods at the location mandated by the Purchaser strictly within the timeline prescribed under the PO. The Seller agrees and undertakes to pay an amount equivalent to 18% of the invoice value as liquidated damages for each day of delay in delivery of the Goods to the Purchaser.
+2.  Seller shall deliver the Goods at the location mandated by the Purchaser strictly within the timeline prescribed under the PO. The Seller agrees and
+3. undertakes to pay an amount equivalent to 18% of the invoice value as liquidated damages for each day of delay in delivery of the Goods to the Purchaser.
 
 
 
@@ -116,17 +117,17 @@ Terms And Conditions
 Terms And Conditions
 12. Seller may charge and the Purchaser will pay Goods and Services Tax ('GST') as applicable by law amended from time to time, provided that such GST is stated on the original invoice that Seller provides to the Purchaser and meets the requirements of a valid tax invoice under the GST laws and regulations in force at the time of issuance of the invoice/(E-invoice).
 13. The Seller shall, at its own cost and expense, indemnify and hold the Purchaser, its directors, employees, officers, affiliates and agents (collectively 'Indemnified Persons') harmless from and against any and all losses, liabilities, claims, actions, costs and expenses, including reasonable attorneys' fees and court costs (collectively 'Claims'), relating to, resulting from or in any way arising out of:
-14. (a) Breach of any of its representations, warranties or obligations contained herein;
+15. (a) Breach of any of its representations, warranties or obligations contained herein;
 
 
 
 Terms And Conditions
-15. (b) Any claim, suit or proceeding brought against the Purchaser alleging that (a) the sale of any Goods provided by the Seller under this PO constitutes an infringement of any intellectual property rights; and (b) the use of any brands, trademarks and logos of the Seller by the Purchaser or use of any other content (provided or approved by the Seller) by the Purchaser constitutes an infringement of any Intellectual Property Rights;
-16. (c) the Purchaser's inability to use or sell the Goods as a result of any infringement action against the Seller;
-17. (d) any defects in the Goods (except any defects arising out of the wilful negligence of the Purchaser);
-18. (e) fraud or fraudulent misrepresentation;
-19. (f) breach of the terms, conditions and warranties implied by the Sale of Goods Act, 1930; or
-20. (g) defective Goods that arises under the Consumer Protection Act.
+16. (b) Any claim, suit or proceeding brought against the Purchaser alleging that (a) the sale of any Goods provided by the Seller under this PO constitutes an infringement of any intellectual property rights; and (b) the use of any brands, trademarks and logos of the Seller by the Purchaser or use of any other content (provided or approved by the Seller) by the Purchaser constitutes an infringement of any Intellectual Property Rights;
+17. (c) the Purchaser's inability to use or sell the Goods as a result of any infringement action against the Seller;
+18. (d) any defects in the Goods (except any defects arising out of the wilful negligence of the Purchaser);
+19. (e) fraud or fraudulent misrepresentation;
+20. (f) breach of the terms, conditions and warranties implied by the Sale of Goods Act, 1930; or
+21. (g) defective Goods that arises under the Consumer Protection Act.
 
 
 

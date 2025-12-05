@@ -1,3 +1,17 @@
 dagent/
 layout_parsing.ipynb
 .DS_Store
+x.json
+__pycache__/
+.vscode/
+.env
+.envrc
+.git/
+.idea/
+node_modules/
+*.pyc
+x.py
+pdf_with_image_descriptions.json
+text_and_image_structured.json
+enriched_rag_data.json
+text_and_image_processor.py

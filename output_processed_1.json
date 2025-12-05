@@ -1,0 +1,126 @@
+[
+    {
+        "page_no": 1,
+        "content_type": "text",
+        "page_content": "IRN/QR Code:\n\namazon.in\n\nAmazon Seller Services Private Limited 8th Floor, Brigade Gateway, World Trade Center, No.26/1, Dr Rajkumar Road, Malleshwaram(W), Bangalore, Karnataka 560055, IN Website:www.amazon.in\n\nPAN No: AAICA3918J\n\nGST Tax Registration No: 29AAICA3918J1ZE\n\nCIN No: U51900KA2010PTC053234\n\n# Bill to\n\nName: SHRASTI SHARMA\n\nAddress:  * NO. 569, CHA/59, PREM NAGAR, ALAMBAGH, Lucknow, Lucknow, UTTAR PRADESH, 226005, IN\n\nPlace of Supply: UTTAR PRADESH\n\nState/UT Code: 09\n\nGSTIN: 09DHEPS6726R1ZA",
+        "element_id": "dd8e5751-756a-481a-94b8-3023b828c608",
+        "chunks": [
+            {
+                "chunk_id": "bf8f796c-119d-4fd5-92f8-9c529f5c6480",
+                "parent_id": "dd8e5751-756a-481a-94b8-3023b828c608",
+                "content": "IRN/QR Code:\n\namazon.in\n\nAmazon Seller Services Private Limited 8th Floor, Brigade Gateway, World Trade Center, No.26/1, Dr Rajkumar Road, Malleshwaram(W), Bangalore, Karnataka 560055, IN Website:www.amazon.in\n\nPAN No: AAICA3918J\n\nGST Tax Registration No: 29AAICA3918J1ZE\n\nCIN No: U51900KA2010PTC053234\n\n# Bill to\n\nName: SHRASTI SHARMA\n\nAddress:  * NO. 569, CHA/59, PREM NAGAR, ALAMBAGH, Lucknow, Lucknow, UTTAR PRADESH, 226005, IN\n\nPlace of Supply: UTTAR PRADESH\n\nState/UT Code: 09\n\nGSTIN: 09DHEPS6726R1ZA"
+            }
+        ]
+    },
+    {
+        "page_no": 1,
+        "content_type": "table",
+        "page_content": "| SI No   | Category of Service   | Description of Service   | Tax Rate   | Amount     |\n|:--------|:----------------------|:-------------------------|:-----------|:-----------|\n| 1.      | 998599                | Order Cancellation Fee   |            | INR 85.41  |\n|         |                       | IGST                     | 18.00%     | INR 15.37  |\n| 2.      | 998599                | Refund Processing Fee    |            | INR 285.00 |\n|         |                       | IGST                     | 18.00%     | INR 51.30  |\n|         |                       | Total:                   |            | INR 437.08 |\n| 0                                  | 1                                  |\n|:-----------------------------------|:-----------------------------------|\n| Subtotal of fees amount INR 370.41 | Subtotal of fees amount INR 370.41 |\n| Subtotal for IGST                  | INR 66.67                          |\n| Subtotal of GST amount             | INR 66.67                          |\n| Total Invoice amount INR           | 437.08                             |",
+        "table_description": "Here’s a concise summary of the data:\n\nThis table details two service charges related to order processing.  A “Order Cancellation Fee” of INR 85.41 is levied, alongside an IGST (18%) totaling INR 15.37.  A “Refund Processing Fee” of INR 285.00 is also applied, with an IGST of INR 51.30.  The combined total invoice amount is INR 437.08, including the subtotal of fees and IGST.",
+        "element_id": "eaadc417-4945-4027-8533-10cf84b6f0f1",
+        "chunks": [
+            {
+                "chunk_id": "7392712b-173a-4188-922f-34bfa40954c4",
+                "parent_id": "eaadc417-4945-4027-8533-10cf84b6f0f1",
+                "content": "| SI No   | Category of Service   | Description of Service   | Tax Rate   | Amount     |\n|:--------|:----------------------|:-------------------------|:-----------|:-----------|\n| 1.      | 998599                | Order Cancellation Fee   |            | INR 85.41  |\n|         |                       | IGST                     | 18.00%     | INR 15.37  |\n| 2.      | 998599                | Refund Processing Fee    |            | INR 285.00 |\n|         |                       | IGST                     | 18.00%     | INR 51.30  |\n|         |                       | Total:                   |            | INR 437.08 |"
+            },
+            {
+                "chunk_id": "6f3abd56-a366-4296-81c2-3c060e766e42",
+                "parent_id": "eaadc417-4945-4027-8533-10cf84b6f0f1",
+                "content": "| SI No   | Category of Service   | Description of Service   | Tax Rate   | Amount     |\n|:--------|:----------------------|:-------------------------|:-----------|:-----------|\n| 0                                  | 1                                  |\n|:-----------------------------------|:-----------------------------------|\n| Subtotal of fees amount INR 370.41 | Subtotal of fees amount INR 370.41 |\n| Subtotal for IGST                  | INR 66.67                          |\n| Subtotal of GST amount             | INR 66.67                          |"
+            },
+            {
+                "chunk_id": "3d0c3d81-308b-42bc-9f2e-26bf295cbbc9",
+                "parent_id": "eaadc417-4945-4027-8533-10cf84b6f0f1",
+                "content": "| SI No   | Category of Service   | Description of Service   | Tax Rate   | Amount     |\n|:--------|:----------------------|:-------------------------|:-----------|:-----------|\n| Total Invoice amount INR           | 437.08                             |"
+            }
+        ]
+    },
+    {
+        "page_no": "1-2",
+        "content_type": "text",
+        "page_content": "Whether tax is payable under reverse charge - No\n\n# Tax Invoice\n\n(Original for Recipient)\n\nInvoice Date: 31/01/2025\n\nInvoice Number: KA-2425-3044751\n\nIRN/QR Code:\n\n# Details of Fees to the above Tax Invoice",
+        "element_id": "119ce5d9-a954-4021-a310-02c6014f2ae1",
+        "chunks": [
+            {
+                "chunk_id": "7bd2f0eb-992b-4ec9-860d-b4aced1acf21",
+                "parent_id": "119ce5d9-a954-4021-a310-02c6014f2ae1",
+                "content": "Whether tax is payable under reverse charge - No\n\n# Tax Invoice\n\n(Original for Recipient)\n\nInvoice Date: 31/01/2025\n\nInvoice Number: KA-2425-3044751\n\nIRN/QR Code:\n\n# Details of Fees to the above Tax Invoice"
+            }
+        ]
+    },
+    {
+        "page_no": 2,
+        "content_type": "table",
+        "page_content": "| Date Category of Service   | Description of Service   | Tax Rate   | Fee Amount   | Tax Amount   |\n|:---------------------------|:-------------------------|:-----------|:-------------|:-------------|\n| 13/01/2025 998599          | Order Cancellation Fee   |            | INR 85.41    |              |\n|                            | IGST                     | 18.00%     |              | INR 15.37    |\n| 17/01/2025 998599          | Refund Processing Fee    |            | INR 95.00    |              |\n|                            | IGST                     | 18.00%     |              | INR 17.10    |\n| 23/01/2025 998599          | Refund Processing Fee    |            | INR 95.00    |              |\n|                            | IGST                     | 18.00%     |              | INR 17.10    |\n| 31/01/2025 998599          | Refund Processing Fee    |            | INR 95.00    |              |\n|                            | IGST                     | 18.00%     |              | INR 17.10    |\n|                            |                          | Total      | INR 370.41   | INR 66.67    |",
+        "table_description": "Here’s a concise summary of the table data:\n\nThis table details several service charges and associated taxes related to refunds. Specifically, it records three instances of “Refund Processing Fees” (INR 95.00 each) on January 23rd, 25th, and 31st, 2025. Each instance was subject to 18% IGST, resulting in a total tax amount of INR 66.67. Additionally, a single “Order Cancellation Fee” of INR 85.41 was recorded on January 13th, 2025, also with 18% IGST. The total tax across all transactions is INR 370.41.",
+        "element_id": "f324bc28-b7b7-4365-bbbe-209d675b2bad",
+        "chunks": [
+            {
+                "chunk_id": "4e96ddd9-4947-4603-ba4f-c96db78596d1",
+                "parent_id": "f324bc28-b7b7-4365-bbbe-209d675b2bad",
+                "content": "| Date Category of Service   | Description of Service   | Tax Rate   | Fee Amount   | Tax Amount   |\n|:---------------------------|:-------------------------|:-----------|:-------------|:-------------|\n| 13/01/2025 998599          | Order Cancellation Fee   |            | INR 85.41    |              |\n|                            | IGST                     | 18.00%     |              | INR 15.37    |\n| 17/01/2025 998599          | Refund Processing Fee    |            | INR 95.00    |              |\n|                            | IGST                     | 18.00%     |              | INR 17.10    |\n| 23/01/2025 998599          | Refund Processing Fee    |            | INR 95.00    |              |"
+            },
+            {
+                "chunk_id": "b055ced1-9b1e-4f9b-892d-91d69baec24b",
+                "parent_id": "f324bc28-b7b7-4365-bbbe-209d675b2bad",
+                "content": "| Date Category of Service   | Description of Service   | Tax Rate   | Fee Amount   | Tax Amount   |\n|:---------------------------|:-------------------------|:-----------|:-------------|:-------------|\n|                            | IGST                     | 18.00%     |              | INR 17.10    |\n| 31/01/2025 998599          | Refund Processing Fee    |            | INR 95.00    |              |\n|                            | IGST                     | 18.00%     |              | INR 17.10    |\n|                            |                          | Total      | INR 370.41   | INR 66.67    |"
+            }
+        ]
+    },
+    {
+        "page_no": 2,
+        "content_type": "text",
+        "page_content": "Please note that this invoice is not a demand for payment.\n\nTo view your account at any time, access Account Summary\n\nRegd Office: Amazon Seller Services Private Limited 8th Floor, Brigade World Trade Center Dr Raj Kumar Road, Malleshwaram (West) Bangalore 560 055, India Pan No: AAICA3918J CIN No: U51900KA2010PTC053234\n\nTelephone: +91 89 33420300 Fax: +91 80 30625685 Email: customer-service@amazon.in\n\nAmazon.in - Amazon Seller Services Private Limited\n\n# Tax Invoice\n\n(Original for Recipient)",
+        "element_id": "7b507a6e-29f7-4ade-af04-215fbcd47825",
+        "chunks": [
+            {
+                "chunk_id": "4eb04bf1-1e92-418a-ac6d-5b34fa6ce928",
+                "parent_id": "7b507a6e-29f7-4ade-af04-215fbcd47825",
+                "content": "Please note that this invoice is not a demand for payment.\n\nTo view your account at any time, access Account Summary\n\nRegd Office: Amazon Seller Services Private Limited 8th Floor, Brigade World Trade Center Dr Raj Kumar Road, Malleshwaram (West) Bangalore 560 055, India Pan No: AAICA3918J CIN No: U51900KA2010PTC053234\n\nTelephone: +91 89 33420300 Fax: +91 80 30625685 Email: customer-service@amazon.in\n\nAmazon.in - Amazon Seller Services Private Limited\n\n# Tax Invoice\n\n(Original for Recipient)"
+            }
+        ]
+    }
+]
+
+
+
+
+
+
+
+{
+    "page_no": 1,
+    "content_type": "text",
+    "page_content": "IRN/QR Code:\n\namazon.in\n\nAmazon Seller Services Private Limited 8th Floor, Brigade Gateway, World Trade Center, No.26/1, Dr Rajkumar Road, Malleshwaram(W), Bangalore, Karnataka 560055, IN Website:www.amazon.in\n\nPAN No: AAICA3918J\n\nGST Tax Registration No: 29AAICA3918J1ZE\n\nCIN No: U51900KA2010PTC053234\n\n# Bill to\n\nName: SHRASTI SHARMA\n\nAddress:  * NO. 569, CHA/59, PREM NAGAR, ALAMBAGH, Lucknow, Lucknow, UTTAR PRADESH, 226005, IN\n\nPlace of Supply: UTTAR PRADESH\n\nState/UT Code: 09\n\nGSTIN: 09DHEPS6726R1ZA",
+    "element_id": "dd8e5751-756a-481a-94b8-3023b828c608",
+    "chunks": [
+        {
+            "id": "977935_cf94ad_Blue_Star_AC_Innovation_and_Product_Range_pdf_1_1",   ////////////// done
+            "title": "977935_cf94ad_Blue_Star_AC_Innovation_and_Product_Range.pdf",   //////////////  done
+            "category": "d0802e17-4e04-4dac-bf", ////////////// done
+            "parent_id": "dd8e5751-756a-481a-94b8-3023b828c608", //////////// done
+            "sourcepage": "977935_cf94ad_Blue_Star_AC_Innovation_and_Product_Range.pdf::1", ///////////// done
+            "chunk_type": "text", //////////// done
+                            "section_title": "Header", // will have to try
+            "content": "IRN/QR Code:\n\namazon.in\n\nAmazon Seller Services Private Limited 8th Floor, Brigade Gateway, World Trade Center, No.26/1, Dr Rajkumar Road, Malleshwaram(W), Bangalore, Karnataka 560055, IN Website:www.amazon.in\n\nPAN No: AAICA3918J\n\nGST Tax Registration No: 29AAICA3918J1ZE\n\nCIN No: U51900KA2010PTC053234\n\n# Bill to\n\nName: SHRASTI SHARMA\n\nAddress:  * NO. 569, CHA/59, PREM NAGAR, ALAMBAGH, Lucknow, Lucknow, UTTAR PRADESH, 226005, IN\n\nPlace of Supply: UTTAR PRADESH\n\nState/UT Code: 09\n\nGSTIN: 09DHEPS6726R1ZA"
+        }
+    ]
+}
+
+
+
+
+{
+        "page_no": 1,
+        "content_type": "text",
+        "page_content": "IRN/QR Code:\n\namazon.in\n\nAmazon Seller Services Private Limited 8th Floor, Brigade Gateway, World Trade Center, No.26/1, Dr Rajkumar Road, Malleshwaram(W), Bangalore, Karnataka 560055, IN Website:www.amazon.in\n\nPAN No: AAICA3918J\n\nGST Tax Registration No: 29AAICA3918J1ZE\n\nCIN No: U51900KA2010PTC053234\n\n# Bill to\n\nName: SHRASTI SHARMA\n\nAddress:  * NO. 569, CHA/59, PREM NAGAR, ALAMBAGH, Lucknow, Lucknow, UTTAR PRADESH, 226005, IN\n\nPlace of Supply: UTTAR PRADESH\n\nState/UT Code: 09\n\nGSTIN: 09DHEPS6726R1ZA",
+        "element_id": "dd8e5751-756a-481a-94b8-3023b828c608",
+        "chunks": [
+            {
+                "chunk_id": "bf8f796c-119d-4fd5-92f8-9c529f5c6480",
+                "parent_id": "dd8e5751-756a-481a-94b8-3023b828c608",
+                "content": "IRN/QR Code:\n\namazon.in\n\nAmazon Seller Services Private Limited 8th Floor, Brigade Gateway, World Trade Center, No.26/1, Dr Rajkumar Road, Malleshwaram(W), Bangalore, Karnataka 560055, IN Website:www.amazon.in\n\nPAN No: AAICA3918J\n\nGST Tax Registration No: 29AAICA3918J1ZE\n\nCIN No: U51900KA2010PTC053234\n\n# Bill to\n\nName: SHRASTI SHARMA\n\nAddress:  * NO. 569, CHA/59, PREM NAGAR, ALAMBAGH, Lucknow, Lucknow, UTTAR PRADESH, 226005, IN\n\nPlace of Supply: UTTAR PRADESH\n\nState/UT Code: 09\n\nGSTIN: 09DHEPS6726R1ZA"
+            }
+        ]
+    }

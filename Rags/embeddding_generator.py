@@ -6,12 +6,12 @@ from langchain_core.documents import Document
 from pydantic import BaseModel, ValidationError
 
 # Import your custom ChromaDB Manager
-from Rags.chromadb import ChromaDBManager
+from rags.chromadb import ChromaDBManager
 
 # --- Configuration ---
 INPUT_JSON_PATH = "output_processed.json"
 COLLECTION_NAME = "document_chunks_collection"
-CHROMA_PERSIST_DIRECTORY = "d:/GitHub/Learning/PARSING-TECHNIQUES/Rags/chroma_db"
+CHROMA_PERSIST_DIRECTORY = "d:/GitHub/Learning/PARSING-TECHNIQUES/rags/chroma_db"
 OLLAMA_EMBEDDING_MODEL = "nomic-embed-text" # A good default for Ollama embeddings
 
 

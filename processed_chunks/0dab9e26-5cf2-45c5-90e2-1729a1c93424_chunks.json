@@ -1,0 +1,2196 @@
+[
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_1",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "# EMBEDDED SYSTEMS\n\n* \n\n* Course Code : 18EC62\n\n*  CIE Marks :40\n\n*  Lecture Hours/Week : 03 + 2 (Tutorial)\n\n*  SEE marks :60\n\n*  Total Number of Lecture Hours : 50 (10 Hrs / Module)\n\n*  Exam Hours : 03\n\n*  CREDITS : 04\n\n# MODULE -1",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_2"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_2",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "ARM-32  bit  Microcontroller:  Thumb-2  technology  and  applications  of  ARM,Architecture  of ARM  Cortex  M3,  Various  Units  in  the  architecture,  Debuggingsupport,  General  Purpose Registers, Special Registers, exceptions, interrupts,stack operation, reset sequence (Text 1: Ch-l, 2, 3)",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_3"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_3",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "# ARM -32-BIT MICROCONTROLLER\n\n# About ARM Cortex-M3 PROCESSOR",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_2",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_4"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_4",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "The microcontroller market is vast, with more than 20 billion devices per year estimated to be shipped in 2010.  A  bewildering  array  of  vendors,  devices,  and  architectures  is  competing  in  this  market.  The requirement  for  higher  performance microcontrollers  has been driven  globally",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_3",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_5"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_5",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "for  higher  performance microcontrollers  has been driven  globally by  the industry's  changing needs;  for  example,  microcontrollers  are  required  to  handle  more  work  without  increasing  a  product's frequency  or  power.  In addition,  microcontrollers  are  becoming  increasingly",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_4",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_6"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_6",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "or  power.  In addition,  microcontrollers  are  becoming  increasingly  connected,  whether  by Universal Serial Bus (USB), Ethernet, or wireless radio, and hence, the processing needed to support these communication channels and advanced peripherals are growing.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_5",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_7"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_7",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "The  ARM Cortex™-M3 processor,  the  first  of  the  Cortex  generation  of  processors  released  by  ARM  in 2006,  was  primarily  designed  to  target  the  32-bit  microcontroller  market.  The  Cortex-  M3  processor provides excellent performance at low gate count and comes with many new",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_6",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_8"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_8",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "provides excellent performance at low gate count and comes with many new features previously available only in high-end processors. The Cortex-M3 addresses the requirements for the 32-bit embedded processor market in the following ways:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_7",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_9"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_9",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  Greater performance efficiency : allowing more work to be done without increasing the frequency or power requirements\n\n*  Low power consumption : enabling longer battery life, especially critical in portable products including wireless networking applications.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_8",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_10"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_10",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  Enhanced determinism: guaranteeing that  critical  tasks  and  interrupts  are  serviced  as quickly\n\nas possible and in a known number of cycles\n\n*  Improved code density : ensuring that code fits in even the smallest memory footprints",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_9",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_11"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_11",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  Ease of use : providing easier programmability and debugging for the growing number of 8-bit and 16bit users migrating to 32 bits\n\n*  Lower cost solutions : reducing 32-bit-based system costs close to those of legacy 8-bit and 16- bit devices",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_10",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_12"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_12",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  Wide choice of development tools: from low-cost or free compilers to full-featured development suites from many development tool vendors.\n\n# Brief History of ARM",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_11",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_13"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_13",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "ARM  was  formed  in  1990  as  Advanced  RISC  Machines  Ltd.,  a  joint  venture  of  Apple  Computer,  Acorn Computer Group, and VLSI Technology.  In  1991,  ARM  introduced  the ARM6  processor family,  and  VLSI became the initial licensee. Subsequently, additional companies, including Texas",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_12",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_14"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_14",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "the initial licensee. Subsequently, additional companies, including Texas Instruments, NEC, Sharp, and ST Microelectronics, licensed the ARM processor designs, extending the applications of ARM processors into mobile phones, computer hard disks, personal digital assistants (PDAs), home",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_13",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_15"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_15",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "mobile phones, computer hard disks, personal digital assistants (PDAs), home entertainment systems, and many other consumer products.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_14",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_16"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_16",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "# Architecture Versions",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_15",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_17"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_17",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "Over  the  years,  ARM  has  continued  to  develop  new  processors  and  system  blocks.  These  include  the popular ARM7TDMI processor and, more recently, the ARM1176TZ(F)-S processor, which is used in highend applications such as smart phones. The evolution of features and enhancements to the",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_16",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_18"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_18",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "such as smart phones. The evolution of features and enhancements to the processors over time  has  led  to  successive  versions  of  the  ARM  architecture.  Note  that  architecture  version  numbers  are independent  from  processor  names.  For  example,  the  ARM7TDMI  processor  is  based  on",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_17",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_19"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_19",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "from  processor  names.  For  example,  the  ARM7TDMI  processor  is  based  on  the  ARMv4T architecture (the T is for Thumb® instruction mode support).",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_18",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_20"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_20",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "Over  the  past  several  years,  ARM  extended  its  product  portfolio  by  diversifying  its  CPU  development, which resulted in the architecture version 7 or v7. In this version, the architecture design is divided into three profiles:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_19",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_21"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_21",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  A  Profile  (ARMv7-A): Application  processors  which    are    designed    to    handle    complex applications  such  as  high-end  embedded  operating  systems  (OSs)  (e.g.,  Symbian,  Linux,    and Windows  Embedded).  These  processors  requiring  the  highest  processing  power,  virtual",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_20",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_22"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_22",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "These  processors  requiring  the  highest  processing  power,  virtual  memory system  support  with  memory  management  units    (MMUs),    and,  optionally,  enhanced  Java  support and a secure program execution environment. Example products include high-end mobile phones and electronic",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_21",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_23"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_23",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "environment. Example products include high-end mobile phones and electronic wallets for financial transactions.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_22",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_24"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_24",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  R Profile (ARMv7-R): Real-time, high-performance processors targeted primarily at the higher end of  the  real-time1  market-those  applications,  such  as  high-end  breaking  systems  and  hard  drive",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_23",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_25"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_25",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "controllers,  in  which  high  processing  power  and  high  reliability  are  essential  and  for  which    low latency is important.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_24",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_26"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_26",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  M  Profile (ARMv7-M): Processors targeting low-cost applications in which processing  efficiency is important and cost,  power consumption, low interrupt latency, and ease of use are critical, as well as industrial control applications, including real-time control systems.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_25",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_27"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_27",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "# The Thumb-2 Technology and Instruction Set Architecture",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_26",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_28"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_28",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "The  Thumb-23  technology  extended  the  Thumb  Instruction  Set  Architecture  (ISA)  into  a  highly efficient and powerful instruction set that delivers significant benefits in terms of ease of use, code size, and performance (see Figure 1). The extended instruction set in Thumb-2 is a superset",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_27",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_29"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_29",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "(see Figure 1). The extended instruction set in Thumb-2 is a superset of the previous 16-bit Thumb  instruction set, with additional 16-bit instructions alongside 32-bit instructions. It allows more complex operations to be carried out in the Thumb state, thus allowing higher efficiency by reducing",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_28",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_30"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_30",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "be carried out in the Thumb state, thus allowing higher efficiency by reducing the number of states switching between ARM state and Thumb state.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_29",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_31"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_31",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "Fig.1.1 the Relationship between the Thumb Instructions Set in Thumb-2 Technology and the Traditional Thumb",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_30",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_32"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_32",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "With support for both 16-bit and 32-bit instructions in the Thumb-2 instruction set, there is no need to switch the processor between Thumb state (16-bit instructions) and ARM state (32-bit instructions). For example, in ARM7 or  ARM9  family  processors,  you  might  need  to  switch  to  ARM",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_31",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_33"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_33",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "in ARM7 or  ARM9  family  processors,  you  might  need  to  switch  to  ARM  state  if  you  want  to    carry  out complex calculations or a large number of conditional operations and good performance is needed, whereas in  the  Cortex-M3  processor,  you  can  mix  32-bit  instructions  with",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_32",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_34"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_34",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "in  the  Cortex-M3  processor,  you  can  mix  32-bit  instructions  with  16-bit    instructions    without  switching state, getting high code density and high performance with no extra complexity.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_33",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_35"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_35",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "# Cortex-M3 Processor Applications",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_34",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_36"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_36",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  Low-cost microcontrollers: The Cortex-M3 processor is ideally suited for low-cost microcontrollers, which are commonly used in consumer products, from toys to electrical appliances. It is a highly competitive market due to the many well-known 8-bit and 16-bit microcontroller products on  the",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_35",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_37"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_37",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "due to the many well-known 8-bit and 16-bit microcontroller products on  the  market.  Its  lower  power,  high  performance,  and  ease-of-  use  advantages  enable  embedded developers to migrate to 32-bit systems and develop products with the ARM architecture.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_36",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_38"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_38",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  Automotive: Another ideal application for the Cortex-M3 processor is in the automotive industry. The Cortex-M3 processor has very high-performance efficiency and low interrupt latency, allowing it to  be  used  in  real-time  systems.  The  Cortex-M3  processor  supports  up  to  240  external",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_37",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_39"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_39",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "systems.  The  Cortex-M3  processor  supports  up  to  240  external  vectored interrupts,  with  a  built-in  interrupt  controller  with  nested  interrupt  supports  and  an  optional  MPU, making it ideal for highly integrated and cost-sensitive automotive applications.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_38",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_40"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_40",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  Data communications : The processor's low power and high efficiency, coupled with instructions in  Thumb-2  for  bit-field  manipulation,  make  the  Cortex-M3  ideal  for  many  communications applications, such as Bluetooth and ZigBee.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_39",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_41"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_41",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  Industrial control :  In  industrial  control  applications,  simplicity,  fast  response,  and  reliability  are key factors. Again, the Cortex-M3 processors interrupt feature, low interrupt latency, and enhanced fault-handling features make it a strong candidate in this area.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_40",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_42"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_42",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  Consumer products :  In  many  consumer products, a high-performance microprocessor (or several of  them) is used. The Cortex-M3 processor, being a small processor, is highly efficient and low in power and supports an MPU enabling complex software to execute while providing robust memory",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_41",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_43"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_43",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "an MPU enabling complex software to execute while providing robust memory protection.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_42",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_44"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_44",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "# Architecture of ARM Corte M3",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_43",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_45"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_45",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "The Cortex™-M3 is a 32-bit microprocessor. It has a 32-bit data path, a 32-bit register bank, and 32bit memory interfaces (see Figure 2). The processor has a Harvard architecture, which means that it has a separate instruction bus and data bus. This allows instructions and data accesses to take",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_44",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_46"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_46",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "bus and data bus. This allows instructions and data accesses to take place at the same time, and as a result of this, the performance of the processor increases because data accesses do not affect the instruction pipeline. This feature results in multiple bus interfaces on Cortex-M3, each with",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_45",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_47"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_47",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "This feature results in multiple bus interfaces on Cortex-M3, each with optimized usage and the  ability  to  be  used  simultaneously.  However,  the  instruction  and  data  buses  share  the  same memory  space  (a  unified  memory  system).  In  other  words,  you  cannot  get  8  GB  of",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_46",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_48"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_48",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "(a  unified  memory  system).  In  other  words,  you  cannot  get  8  GB  of  memory  space  just because you have separate bus interfaces.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_47",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_49"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_49",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  The Cortex-M3 processor is a 32-bit  processor,  with  a  32-bit  wide  data  path,  register  bank and memory interface. There are 13 general-purpose registers, two stack pointers, a link register, a program counter and a number of special registers including a program status register.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_48",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_50"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_50",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  The    Cortex-M3    core    contains    a    decoder    for    traditional    Thumb    and      new      Thumb-2 instructions,  an  advanced  ALU  with  support  for  hardware  multiply  and  divide,  control  logic,  and interfaces to the other components of the processor.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_49",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_51"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_51",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  The  Cortex-M3  processor  is  a  32-bit  processor,  with  a  32-bit  wide  data  path,  register  bank  and memory interface. There are 13 general-purpose registers, two stack pointers, a link register, a program counter and a number of special registers including a program status register.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_50",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_52"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_52",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "*  The Cortex-M3 processor is a memory mapped system with a simple, fixed memory map for up to 4 gigabytes  of  addressable  memory  space  with  predefined,  dedicated  addresses  for  code  (code  space), SRAM(memory  space),  external  memories/devices  and  internal/external  peripherals.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_51",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_53"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_53",
+        "parent_id": "0474775f-3b39-497f-a814-8f33c07a6584",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::1-5",
+        "category": "pdf",
+        "content": "space),  external  memories/devices  and  internal/external  peripherals.  There  is  also  a special region to provide for vendor specific addressability.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_52",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5_1_1",
+        "parent_id": "38401db6-4627-4d93-ac4b-bce7227083e8",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "image",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5",
+        "category": "pdf",
+        "content": "The image presents a detailed diagram of an integrated circuit processor, also known as an IC. The processor is composed of various components such as memory, control unit, and power supply. It includes a code bus for communication between different parts of the processor, a memory system to store and retrieve data, and a private interface that allows users to interact with the device.\n\nThe diagram provides a clear visual representation of each component's function within the IC, making it easier to understand how they work together as a whole. The image also includes labels for key elements such as the code bus, memory system, power supply, and other components, which help identify their roles in the overall design of the processor.",
+        "width": 460,
+        "height": 318,
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_1-5_1_53",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_1",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "Fig1. 2. A Simplified View of the CortexM3.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_2"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_2",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "*  The  MPU is  an  optional    component  of  the  Cortex-M3  processor  that  can  improve  the  reliability of  an  embedded  system  by  protecting  critical  data  used  by  the  operating  system  from  user  applications, separating  processing  tasks  by  disallowing  access  to  each",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_3"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_3",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "applications, separating  processing  tasks  by  disallowing  access  to  each  other's  data,    disabling    access    to    memory regions,  allowing  memory  regions to be defined as read-only  and detecting unexpected memory accesses that could potentially break the system.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_2",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_4"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_4",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "*  The  highly  configurable  NVIC  is  an  integral  part  of  the  Cortex-M3  processor  and provides the  processor's  outstanding  interrupt  handling  abilities.  In  its  standard  implementation  it  supplies  a NonMaskable  Interrupt  (NMI)  and  32  general  purpose  physical  interrupts",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_3",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_5"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_5",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "NonMaskable  Interrupt  (NMI)  and  32  general  purpose  physical  interrupts  with  8  levels  of  pre-emption priority.  It can be configured to anywhere between 1 and 240 physical interrupts with up to 256 levels of priority though simple synthesis choices.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_4",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_6"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_6",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "*  The  debug  access  into  a  Cortex-M3  processor  based  system  is  through    the  Debug  Access  Port (DAP) that can be implemented as either a Serial Wire Debug Port (SW-DP) for a two-pin (clock and data) Interface  or  a  Serial  Wire  JTAG  Debug  Port  (SWJ-DP)    that  enables  either",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_5",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_7"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_7",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "or  a  Serial  Wire  JTAG  Debug  Port  (SWJ-DP)    that  enables  either  JTAG  or  SW  protocol  to  be used.  The  SWJ-DP  defaults  to  JTAG  mode  on  power  reset  and  can  be  made  to  switch  protocols  with  a specific control sequence provided by the external debug hardware.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_6",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_8"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_8",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "*  The  Cortex-M3  processor  bus  matrix  connects  the  processor  and  debug  interface  to  the  external buses;  the  32-bit  AMBA®  AHB-Lite  based  ICode,  DCode  and  System  interfaces  and  the  32-bit  AMBA APB™ based Private Peripheral Bus (PPB). The bus matrix also implements",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_7",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_9"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_9",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "AMBA APB™ based Private Peripheral Bus (PPB). The bus matrix also implements unaligned data accesses and bit banding",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_8",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_10"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_10",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "# Registers in Cortex-M3 processor\n\nThe Cortex-M3 processor has registers R0 through R15. R13 (the stack pointer) is banked, with only one copy of the R13 visible at a time.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_9",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_11"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_11",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "R0-R12:  General-Purpose  Registers  R0-R12  are  32-bit  general-purpose  registers  for  data operations. Some 16-bit Thumb® instructions can only access a subset of these registers (low registers, R0-R7).",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_10",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_12"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_12",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "R13: Stack Pointers The Cortex-M3 contains two stack pointers (R13). They are banked so that only one is visible at a time. The two stack pointers are as follows:\n\n* Main Stack Pointer (MSP): The default stack pointer, used by the operating system (OS) kernel and exception handlers",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_11",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_13"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_13",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "* Process Stack Pointer (PSP): Used by user application code.\n\nR14: The Link Register When a subroutine is called, the return address is stored in the link register.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_12",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_14"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_14",
+        "parent_id": "a7f023ae-5383-4927-8168-2391b45f4949",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::5-7",
+        "category": "pdf",
+        "content": "R15: The Program Counter The program counter is the current program address. This register can be written to control the program flow.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_13",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7_1_1",
+        "parent_id": "a06167ef-984d-49e5-9fd4-b82e7abda549",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "image",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::7",
+        "category": "pdf",
+        "content": "The image presents a flowchart that illustrates the functions (and banked register) of an electronic device. The flowchart is color-coded with yellow for \"General Purpose Register\" and red for \"Low Registers\". It includes various components such as \"R13\", \"RSP\", \"link regisrter\", \"process stack pointer\", and \"Program Counter\". The flowchart provides a clear visual representation of the device's functionality, making it easier to understand how each component works together.",
+        "width": 366,
+        "height": 238,
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_5-7_1_14",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_1",
+        "parent_id": "03c8dbbc-f06c-4135-9142-88423e30cf4e",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::7-8",
+        "category": "pdf",
+        "content": "Fig1. 3. Registers in the Cortex-M3\n\n# Stack Pointer R13",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_2"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_2",
+        "parent_id": "03c8dbbc-f06c-4135-9142-88423e30cf4e",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::7-8",
+        "category": "pdf",
+        "content": "R13 is the stack pointer (SP). In the Cortex-M3 processor, there are two SPs. This duality allows two  separate  stack  memories  to  be  set  up.  When  using  the  register  name  R13,  you  can  only access the current SP; the other one is inaccessible unless you use special instructions to move",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_3"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_3",
+        "parent_id": "03c8dbbc-f06c-4135-9142-88423e30cf4e",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::7-8",
+        "category": "pdf",
+        "content": "SP; the other one is inaccessible unless you use special instructions to move to special  register  from  general-purpose  register  (MSR)  and  move  special  register  to  generalpurpose register (MRS).",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_2",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_4"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_4",
+        "parent_id": "03c8dbbc-f06c-4135-9142-88423e30cf4e",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::7-8",
+        "category": "pdf",
+        "content": "The two SPs are as follows:\n\n* Main Stack Pointer (MSP) or SP_main in ARM documentation: This is the default SP; it is used  by  the  operating  system  (OS)  kernel,  exception  handlers,  and  all  application  codes  that require privileged access.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_3",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_5"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_5",
+        "parent_id": "03c8dbbc-f06c-4135-9142-88423e30cf4e",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::7-8",
+        "category": "pdf",
+        "content": "* Process  Stack  Pointer  (PSP)  or  SP_process in  ARM  documentation:  This  is  used  by  the base-level application code (when not running an exception handler).",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_4",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_8_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_8_1_1",
+        "parent_id": "cfb90868-f440-4e71-b2a8-205d19725b9b",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "image",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::8",
+        "category": "pdf",
+        "content": "The image presents a flowchart that illustrates the process of Push and Pop operations on Stack Pop. The flowchart is divided into two distinct stages, each represented by a series of boxes with arrows pointing to the next stage. In the first stage, the Push operation is performed on the stack pop, which is then used as input for the second stage. This second stage involves the Pop operation, where the data from the stack pop is processed and stored in memory. The image also includes text that provides a detailed explanation of these operations, along with an example of how to implement them using Stack Pop.",
+        "width": 464,
+        "height": 262,
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_7-8_1_5",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_1",
+        "parent_id": "83a0ead8-33f3-4482-b908-723a38311a52",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::9-10",
+        "category": "pdf",
+        "content": "In the Cortex-M3, the instructions for accessing stack memory are PUSH and POP. The assembly language syntax is as follows (text after each semicolon [;] is a comment):\n\nPUSH {R0} ; R13=R13-4, then Memory[R13] = R0 POP {R0} ; R0 = Memory[R13], then R13 = R13 + 4\n\n# Link Register R14:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_8_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_2"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_2",
+        "parent_id": "83a0ead8-33f3-4482-b908-723a38311a52",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::9-10",
+        "category": "pdf",
+        "content": "# Link Register R14:\n\nR14 is the link register (LR). Inside an assembly program, you can write it as either R14 or LR. LR is used to store the return program counter (PC) when a subroutine or function is called-for example, when you're using the branch and link (BL) instruction:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_3"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_3",
+        "parent_id": "83a0ead8-33f3-4482-b908-723a38311a52",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::9-10",
+        "category": "pdf",
+        "content": "main : Main program BL functionl : Call functionl using Branch with Link instruction. :PC - functionl and LR - the next instruction in main functionl Program codefor functionl BXLR :Return\n\n# Program Counter R15:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_2",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_4"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_4",
+        "parent_id": "83a0ead8-33f3-4482-b908-723a38311a52",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::9-10",
+        "category": "pdf",
+        "content": "# Program Counter R15:\n\nR15 is the PC. You can access it in assembler code by either R15 or PC. Because of the pipelined nature of the Cortex-M3 processor, when you read this register, you will find that the value is different than the location of the executing instruction, normally by 4.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_3",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_5"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_5",
+        "parent_id": "83a0ead8-33f3-4482-b908-723a38311a52",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::9-10",
+        "category": "pdf",
+        "content": "0x1000 : MOV R0, PC ; R0 = 0x1004",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_4",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_6"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_6",
+        "parent_id": "83a0ead8-33f3-4482-b908-723a38311a52",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::9-10",
+        "category": "pdf",
+        "content": "In other instructions like literal load (reading of a memory location related to current PC value), the  effective  value  of  PC  might  not  be  instruction  address  plus  4  due  to  alignment  in  address calculation.  But  the  PC  value  is  still  at  least  2  bytes  ahead  of  the",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_5",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_7"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_7",
+        "parent_id": "83a0ead8-33f3-4482-b908-723a38311a52",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::9-10",
+        "category": "pdf",
+        "content": "But  the  PC  value  is  still  at  least  2  bytes  ahead  of  the  instruction  address  during execution",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_6",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_8"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_8",
+        "parent_id": "83a0ead8-33f3-4482-b908-723a38311a52",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::9-10",
+        "category": "pdf",
+        "content": "# Special Registers:\n\nThe Cortex-M3 processor also has a number of special registers. They are as follows:\n\n* Program Status registers (PSRs)\n\n* Interrupt Mask registers (PRIMASK, FAULTMASK, and BASEPRI)\n\n* Control register (CONTROL)",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_7",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_9"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_9",
+        "parent_id": "83a0ead8-33f3-4482-b908-723a38311a52",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::9-10",
+        "category": "pdf",
+        "content": "* Control register (CONTROL)\n\nSpecial registers can only be accessed via MSR and MRS instructions; they do not have memory addresses:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_8",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10_1_1",
+        "parent_id": "4315efb3-6620-4da2-9273-310913563338",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "table",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10",
+        "category": "pdf",
+        "content": "| Register   | Function                                                                                                                   |\n|:-----------|:---------------------------------------------------------------------------------------------------------------------------|\n| xPSR       | Provide arithmetic and logicprocessing flags (zeroflag and carry flag), executionstatus,andcurrentexecutinginterruptnumber |\n| PRIMASK    | Disableallinterruptsexceptthenonmaskableinterrupt(NMl)andhardfault                                                         |\n| FAULTMASK  | DisableallinterruptsexcepttheNMI                                                                                           |\n| BASEPRI    | Disableall interruptsofspecificprioritylevelorlowerprioritylevel                                                           |\n| CONTROL    | Defineprivilegedstatusandstackpointerselection                                                                             |",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_9-10_1_9",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_1",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "# The Built-In Nested Vectored Interrupt Controller:\n\nThe Cortex-M3 processor includes an interrupt controller called the Nested Vectored Interrupt Controller (NVIC). It is closely coupled to the processor core and provides a number of features as follows: Nested interrupt support ·",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_2"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_2",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "Vectored interrupt support\n\nDynamic priority changes support\n\nReduction of interrupt latency\n\nInterrupt masking",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_3"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_3",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "Nested Interrupt Support: The NVIC provides nested interrupt support. All the external interrupts and most of the system exceptions can be programmed to different priority levels. When an interrupt occurs, the NVIC compares the priority of this interrupt to the current running priority level. If",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_2",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_4"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_4",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "the priority of this interrupt to the current running priority level. If the priority of the new interrupt is higher than the current level, the interrupt handler of the new interrupt will override the current running task.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_3",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_5"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_5",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "Vectored Interrupt Support: The Cortex-M3 processor has vectored interrupt support. When an interrupt is accepted, the starting address of the interrupt service routine (ISR) is located from a vector table in memory. There is no need to use software to determine and branch to the starting address",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_4",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_6"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_6",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "is no need to use software to determine and branch to the starting address of the ISR. Thus, it takes less time to process the interrupt request.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_5",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_7"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_7",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "Dynamic  Priority  Changes  Support: Priority  levels  of  interrupts  can  be  changed  by  software during  run  time.  Interrupts  that  are  being  serviced  are  blocked  from  further  activation  until  the  ISR  is completed, so their priority can be changed without risk of accidental",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_6",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_8"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_8",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "ISR  is completed, so their priority can be changed without risk of accidental reentry.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_7",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_9"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_9",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "Reduction of Interrupt  Latency:  The Cortex-M3  processor also includes  a number of advanced  features  to lower  the  interrupt  latency.  These  include automatic  saving  and  restoring  some  register  contents,  reducing delay in switching from one ISR to another, and handling of late",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_8",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_10"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_10",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "reducing delay in switching from one ISR to another, and handling of late arrival interrupts",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_9",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_11"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_11",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "Interrupt Masking: Interrupts and system exceptions can be masked based on their priority level or masked completely using the interrupt masking registers BASEPRI, PRIMASK, and FAULTMASK.\n\nThey can be used to ensure that time-critical tasks can be finished on time without being interrupt",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_10",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_12"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_12",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "# The Memory Map:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_11",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_13"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_13",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "The Cortex-M3 has a predefined memory map. This allows the built-in peripherals, such as the interrupt  controller  and  the  debug  components,  to  be  accessed  by  simple  memory  access instructions.  Thus,  most  system  features  are  accessible  in  C  program  code.  The  predefined memory",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_12",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_14"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_14",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "features  are  accessible  in  C  program  code.  The  predefined memory map also allows the Cortex-M3 processor to be highly optimized for speed and ease of integration in system-on-a-chip (SoC) designs.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_13",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_15"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_15",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "The  Cortex-M3  design  has  an  internal  bus  infrastructure  optimized  for  this  memory  usage.  In addition, the design allows these regions to be used differently. For example, data memory can still be put into the CODE region, and program code can be executed from an external Random Access",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_14",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_16"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_16",
+        "parent_id": "914367f9-a76e-4fcf-bdb2-f6c99b67c314",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::10-12",
+        "category": "pdf",
+        "content": "CODE region, and program code can be executed from an external Random Access Memory (RAM) region.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_15",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_12_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_12_1_1",
+        "parent_id": "f72ee99d-1ace-468e-820c-a99a1ce279af",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "image",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::12",
+        "category": "pdf",
+        "content": "The image presents an organized flowchart that illustrates the components of a computer system. The flowchart is divided into three main sections: external device, memory, and code. Each section contains multiple boxes representing different elements within the system. These elements include a RAM (Random Access Memory), a hard drive or solid-state drive, and a programmable table. The flowchart also includes text that provides information about these components, such as their functions and how they interact with each other.",
+        "width": 294,
+        "height": 282,
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_10-12_1_16",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_1",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "# The Bus Interface:\n\nThere are several bus interfaces on the Cortex-M3 processor. They allow the Cortex-M3 to carry instruction fetches and data accesses at the same time.\n\nThe main bus interfaces are as follows:\n\n* Code memory buses\n\n* System bus\n\n* Private peripheral bus",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_12_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_2"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_2",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "The  code  memory  region  access  is  carried  out  on  the  code  memory  buses,  which  physically consist  of  two  buses,  one  called  I-Code  and  other  called  D-Code.  These  are  optimized  for instruction fetches for best instruction execution speed. The system bus is used to access",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_3"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_3",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "fetches for best instruction execution speed. The system bus is used to access memory and peripherals. This provides  access  to  the  Static  Random  Access  Memory  (SRAM), peripherals, external RAM, external devices, and part of the system level memory regions.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_2",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_4"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_4",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "# The Instruction Set:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_3",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_5"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_5",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "The Cortex-M3 supports the Thumb-2 instruction set. This is one of the most important features of  the  Cortex-M3  processor  because  it  allows  32-bit  instructions  and  16-bit  instructions  to  be used together for high code density and high efficiency. It is flexible and powerful  yet easy",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_4",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_6"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_6",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "high code density and high efficiency. It is flexible and powerful  yet easy to use.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_5",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_7"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_7",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "In previous ARM processors, the central processing unit (CPU) had two operation states: a 32bit ARM state and a 16-bit Thumb state. In the ARM state, the instructions are 32 bits and can execute  all  supported  instructions  with  very  high  performance.  In  the  Thumb  state,  the instructions",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_6",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_8"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_8",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "with  very  high  performance.  In  the  Thumb  state,  the instructions are 16 bits, so there is a much higher instruction code density, but the Thumb state does  not  have  all  the  functionality  of  ARM  instructions  and  may  require  more  instructions  to complete certain types of",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_7",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_9"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_9",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "and  may  require  more  instructions  to complete certain types of operations.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_8",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_10"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_10",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "The Cortex-M3 processor has a number of advantages over traditional ARM processors, such as:\n\n* No state switching overhead, saving both execution time and instruction space\n\n* No need to separate ARM code and Thumb code source files, making software development and maintenance easier",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_9",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_11"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_11",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "* It's  easier  to  get  the  best  efficiency  and  performance,  in  turn  making  it  easier  to  write software, because there is no need to worry about  switching code between  ARM  and Thumb to try to get the best  density/performance.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_10",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_12"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_12",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "The Cortex-M3 processor has a number of interesting and powerful instructions. Here are a few examples:\n\n* UFBX, BFI, and BFC: Bit field extract, insert, and clear instructions\n\n* UDIV and SDIV: Unsigned and signed divide instructions",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_11",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_13"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_13",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "* UDIV and SDIV: Unsigned and signed divide instructions\n\n* WFE, WFI, and SEV: Wait-For-Event, Wait-For-Interrupts, and Send-Event; these allow the processor to enter sleep mode and to handle task synchronization on multiprocessor systems",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_12",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_14"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_14",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "* MSR  and  MRS:  Move  to  special  register  from  general-purpose  register  and  move  special register to general-purpose register; for access to the special registers.\n\n# Interrupts and Exceptions:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_13",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_15"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_15",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "The  Cortex-M3  processor  implements  a  new  exception  model,  introduced  in  the  ARMv7-M architecture. This exception model differs from the traditional ARM exception model, enabling very efficient exception handling. It has a number of system exception handling. It has a number of  system",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_14",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_16"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_16",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "It has a number of system exception handling. It has a number of  system  exceptions  plus  a  number  of  external  Interrupt  Request  (IRQs)  (external  interrupt inputs).",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_15",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_17"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_17",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "There is no fast interrupt (FIQ) (fast interrupt in ARM7/ARM9/ ARM10/ARM11) in the CortexM3; however, interrupt  priority  handling  and  nested  interrupt  support  are  now  included  in  the interrupt architecture. Therefore, it is easy to set up a system that supports nested interrupts (a",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_16",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_18"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_18",
+        "parent_id": "dbd5afd7-a7f1-45a6-9b69-9794041014f5",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::13-15",
+        "category": "pdf",
+        "content": "Therefore, it is easy to set up a system that supports nested interrupts (a higher-priority  interrupt  can  override  or  preempt  a  lower-priority  interrupt  handler)  and  that behaves just like the FIQ in traditional ARM processors.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_17",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_15_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_15_1_1",
+        "parent_id": "09c7e793-a31f-485c-a85e-85b80aca4b0f",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "table",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::15",
+        "category": "pdf",
+        "content": "| Exception Number   | ExceptionType   | Priority     | Function                                                                                                                                |\n|:-------------------|:----------------|:-------------|:----------------------------------------------------------------------------------------------------------------------------------------|\n| 1                  | Reset           | -3 (Highest) | Reset                                                                                                                                   |\n| 2                  | NMI             | -2           | Nonmaskable interrupt                                                                                                                   |\n| 3                  | Hard fault      | -1           | All classes of fault,when the corresponding fault handlercannotbeactivatedbecauseit iscurrently disabled or masked by exceptionmasking  |\n| 4                  | MemManage       | Settable     | Memory management fault;caused by MPU violationorinvalidaccesses(suchasaninstruction fetchfroma nonexecutableregion)                    |\n| 5                  | Bus fault       | Settable     | Errorresponsereceived from the bus system; causedbyaninstructionprefetchabortordata accesserror                                         |",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_13-15_1_18",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_15_1_2"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_15_1_2",
+        "parent_id": "09c7e793-a31f-485c-a85e-85b80aca4b0f",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "table",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::15",
+        "category": "pdf",
+        "content": "| Exception Number   | ExceptionType   | Priority     | Function                                                                                                                                |\n|:-------------------|:----------------|:-------------|:----------------------------------------------------------------------------------------------------------------------------------------|\n| 6                  | Usage fault     | Settable     | Usage fault;typical causes areinvalid instructions orinvalid state transition attempts(suchastrying to switchtoARMstate intheCortex-M3) |\n| 7-10               |                 |              | Reserved                                                                                                                                |\n| 11                 | SVC             | Settable     | Supervisor call via SVCinstruction                                                                                                      |\n| 12                 | Debug monitor   | Settable     | Debug monitor                                                                                                                           |\n| 13                 |                 |              | Reserved                                                                                                                                |",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_15_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_15_1_3"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_15_1_3",
+        "parent_id": "09c7e793-a31f-485c-a85e-85b80aca4b0f",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "table",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::15",
+        "category": "pdf",
+        "content": "| Exception Number   | ExceptionType   | Priority     | Function                                                                                                                                |\n|:-------------------|:----------------|:-------------|:----------------------------------------------------------------------------------------------------------------------------------------|\n| 14                 | PendSV          | Settable     | Pendablerequestforsystemservice                                                                                                         |\n| 15                 | SYSTICK         | Settable     | System tick timer                                                                                                                       |\n| 16-255             | IRQ             | Settable     | IRQ input #0-239                                                                                                                        |",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_15_1_2",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_1",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "# Debugging Support:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_15_1_3",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_2"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_2",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "The Cortex-M3 processor includes a number of debugging features, such as program execution controls, including halting and stepping, instruction breakpoints, data watchpoints, registers and memory accesses, profiling, and traces. The debugging hardware of the Cortex-M3 processor is based on the",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_3"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_3",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "and traces. The debugging hardware of the Cortex-M3 processor is based on the CoreSight™ architecture.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_2",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_4"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_4",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "Unlike traditional ARM processors, the CPU core itself does not have a Joint Test Action Group (JTAG)  interface.  Instead,  a  debug  interface  module  is  decoupled  from  the  core,  and  a  bus interface  called  the  Debug  Access  Port  (DAP)  is  provided  at  the  core  level.  Through",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_3",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_5"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_5",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "the  Debug  Access  Port  (DAP)  is  provided  at  the  core  level.  Through  this  bus interface,  external  debuggers can  access control  registers  to debug hardware  as well as system memory, even when the processor is running. The control of this bus interface is carried out by a Debug Port",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_4",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_6"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_6",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "is running. The control of this bus interface is carried out by a Debug Port (DP) device.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_5",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_7"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_7",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "The  DPs  currently  available  are  the  Serial-Wire  JTAG  Debug  Port  (SWJ-DP)  (supports  the traditional JTAG protocol as well as the Serial-Wire protocol) or the SW-DP (supports the SerialWire protocol only). A JTAG-DP module from the ARM CoreSight product family can also be used.  Chip",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_6",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_8"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_8",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "A JTAG-DP module from the ARM CoreSight product family can also be used.  Chip  manufacturers can choose to attach one of these DP  modules to provide the debug interface.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_7",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_9"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_9",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "Chip manufacturers can also include an Embedded Trace Macrocell (ETM) to allow instruction trace. Trace information is output via the Trace Port Interface Unit (TPIU), and the debug host (usually  a  Personal  Computer  [PC])  can  then  collect  the  executed  instruction  information  via",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_8",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_10"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_10",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "[PC])  can  then  collect  the  executed  instruction  information  via external trace capturing hardware.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_9",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_11"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_11",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "# Stack Memory Operations:\n\nIn the Cortex-M3, besides normal software-controlled stack PUSH and POP, the stack PUSH and POP operations are also carried out automatically when entering or exiting an exception/interrupt handler. In this section, we examine the software stack operations.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_10",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_12"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_12",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "# Operation:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_11",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_13"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_13",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "In general, stack operations are memory write or read operations, with  the address specified by an SP. Data in registers is saved into stack memory by a PUSH operation and can be restored to registers later by  a POP operation. The SP is adjusted automatically in PUSH and POP so that multiple data",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_12",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_14"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_14",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "The SP is adjusted automatically in PUSH and POP so that multiple data PUSH will not cause old stacked data to be erased.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_13",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_15"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_15",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "The  function  of  the  stack  is  to  store  register  contents  in  memory  so  that  they  can  be  restored later, after a processing task is completed. For normal uses, for each store (PUSH), there must be a  corresponding  read  (POP),  and  the  address  of  the  POP  operation  should",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_14",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_16"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_16",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "read  (POP),  and  the  address  of  the  POP  operation  should  match  that  of  the PUSH operation.  When  PUSH/POP  instructions  are  used,  the  SP  is  incremented/decremented automatically. When program control returns to the main program, the R0-R2 contents are the same as before.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_15",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_17"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_17",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "Notice  the  order  of  PUSH  and  POP:  The  POP  order  must  be  the  reverse  of  PUSH.  These operations can be simplified, thanks to PUSH and POP instructions allowing multiple load and store. In this case, the ordering of a register POP is automatically reversed by the processor. You can",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_16",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_18"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_18",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "ordering of a register POP is automatically reversed by the processor. You can also combine RETURN with a POP operation. This is done by pushing the LR to the stack and popping it back to PC at the end of the subroutine.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_17",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_19"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_19",
+        "parent_id": "ef504422-d29c-439b-8da9-8c41da10c987",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::16-17",
+        "category": "pdf",
+        "content": "# Cortex-M3 Stack Implementation:",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_18",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_18_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_18_1_1",
+        "parent_id": "bb7a2bcb-57cf-40ad-bafc-56c05e31940f",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "image",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::18",
+        "category": "pdf",
+        "content": "The image shows an open code editor window with two main sections on the screen. The left section contains a block of code that reads \"Main program\", while the right section displays a list of instructions for the code. The code includes functions such as \"Subroutine\" and \"Functional Programming\".",
+        "width": 446,
+        "height": 213,
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_16-17_1_19",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_18_2_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_18_2_1",
+        "parent_id": "87a3f25d-178b-4449-9e8d-1f2bbcd531c7",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::18",
+        "category": "pdf",
+        "content": "# 1. 16 Reset Sequence\n\nAfter the processor exits reset, it will read two words from memory\n\n* Address 0x00000000: Starting value of R13 (the SP)\n\n* Address 0x00000004: Reset vector (the starting address of program execution; LSB should be set to 1 to indicate Thumb state)",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_18_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_18_2_2"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_18_2_2",
+        "parent_id": "87a3f25d-178b-4449-9e8d-1f2bbcd531c7",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::18",
+        "category": "pdf",
+        "content": "This differs from traditional ARM processor behavior. Previous ARM processors executed program code starting from address 0x0. Furthermore, the vector table in previous ARM devices was instructions .\n\nFigure 3.Reset sequence",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_18_2_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19_1_1",
+        "parent_id": "3d9f5f1f-fd7b-49bb-ad5c-41450629d97f",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "image",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19",
+        "category": "pdf",
+        "content": "The image presents a flowchart that illustrates how to bypass a boot code using a Flash exception vector. The flowchart is divided into three main sections: \"Boot Code\", \"Other Exception\", and \"Reset\". Each section contains various elements such as rectangles, arrows, and text boxes, which provide information about the process of bypassing the boot code.\n\nThe first section, labeled \"Boot Code\", explains how to bypass the boot code using a Flash exception vector. The second section, labeled \"Other Exception\", provides instructions on how to bypass other exceptions in addition to the boot code. The third and final section, labeled \"Reset\", outlines the steps needed to successfully bypass the boot code.",
+        "width": 271,
+        "height": 277,
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_18_2_2",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_1"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_1",
+        "parent_id": "e527ea72-4e60-4c41-abf3-39aa5ffafd7c",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19-20",
+        "category": "pdf",
+        "content": "Figure.4 Initial Stack Pointer Value and Initial Program Counter Value Example.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_2"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_2",
+        "parent_id": "e527ea72-4e60-4c41-abf3-39aa5ffafd7c",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19-20",
+        "category": "pdf",
+        "content": "In  the  Cortex-M3,  the  initial  value  for  the  MSP  is  put  at  the  beginning  of  the  memory  map, followed  by  the  vector  table,  which  contains  vector  address  values.  (The  vector  table  can  be relocated  to  another  location  later,  during  program  execution.)  In",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_1",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_3"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_3",
+        "parent_id": "e527ea72-4e60-4c41-abf3-39aa5ffafd7c",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19-20",
+        "category": "pdf",
+        "content": "be relocated  to  another  location  later,  during  program  execution.)  In  addition,  the  contents  of  the vector  table  are  address  values  not  branch  instructions.  The  first  vector  in  the  vector  table (exception type 1) is the reset vector, which is the second piece of data",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_2",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_4"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_4",
+        "parent_id": "e527ea72-4e60-4c41-abf3-39aa5ffafd7c",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19-20",
+        "category": "pdf",
+        "content": "table (exception type 1) is the reset vector, which is the second piece of data fetched by the processor after  reset.  Because  the  stack  operation  in  the  Cortex-M3  is  a  full  descending  stack  (SP decrement before store), the initial SP value should be set to the first memory after the",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_3",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_5"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_5",
+        "parent_id": "e527ea72-4e60-4c41-abf3-39aa5ffafd7c",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19-20",
+        "category": "pdf",
+        "content": "before store), the initial SP value should be set to the first memory after the top of the stack region. For example, if you have a stack memory range from 0x20007C00 to 0x20007FFF (1 KB), the initial stack value should be set to 0x20008000.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_4",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_6"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_6",
+        "parent_id": "e527ea72-4e60-4c41-abf3-39aa5ffafd7c",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19-20",
+        "category": "pdf",
+        "content": "# Recommended Questions\n\n* Briefly discuss how Cortex-M3 address the requirements of the 32-bit embedded processor market\n\n* Briefly explain the Thumb-2 technology and its advantages over thumb instruction set with relevat diagram.\n\n* Write a short note on the applicatios of Cortex-M3",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_5",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_7"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_7",
+        "parent_id": "e527ea72-4e60-4c41-abf3-39aa5ffafd7c",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19-20",
+        "category": "pdf",
+        "content": "* Write a short note on the applicatios of Cortex-M3\n\n* With a neat diagram, explain the architecture of ARM cortex M3 microcontroller.\n\n* What are the various registers in ARM Cortex M3? Specify the function of each of them.\n\n* Briefly describe the Special Register of ARM cortex M3.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_6",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_8"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_8",
+        "parent_id": "e527ea72-4e60-4c41-abf3-39aa5ffafd7c",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19-20",
+        "category": "pdf",
+        "content": "* Briefly describe the Special Register of ARM cortex M3.\n\n* Briefly explain about the operation modes and levels with relevant diagrams in case of ARM Cortex-M3\n\n* Explain the features of Nested vector Interrupt controller of ARM cortex M3.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_7",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_9"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_9",
+        "parent_id": "e527ea72-4e60-4c41-abf3-39aa5ffafd7c",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19-20",
+        "category": "pdf",
+        "content": "* Explain the features of Nested vector Interrupt controller of ARM cortex M3.\n\n* With neat diagram explain the predefined memory map of ARM Cortex-M3\n\n* Write a short note on a) Bus interface b) Memory Protection units of ARM cortex M3.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_8",
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_10"
+        ]
+    },
+    {
+        "id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_10",
+        "parent_id": "e527ea72-4e60-4c41-abf3-39aa5ffafd7c",
+        "file_id": "0dab9e26-5cf2-45c5-90e2-1729a1c93424",
+        "title": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf",
+        "chunk_type": "text",
+        "sourcepage": "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ES Mod1@AzDOCUMENTS.in.pdf::19-20",
+        "category": "pdf",
+        "content": "* Describe the interrupts and exceptions supported by ARM Cortex M3.\n\n* Describe the debugging support in ARM Cortex M3.\n\n* Explain the stack operations using PUSH and POP instructions in ARM Cortex M3.\n\n* With relevant diagrams explain the reset sequence in ARM cortex M3.",
+        "neighbour": [
+            "0dab9e26-5cf2-45c5-90e2-1729a1c93424_ESMod1AzDOCUMENTS_in_pdf_19-20_1_9"
+        ]
+    }
+]

@@ -66,22 +66,12 @@ Question: {input}
         print("✅ RAG chain created and ready.")
 
     def ask_question(self, question: str):
-        """Asks a question to the RAG chain and prints the results."""
-        print(f"\n❓ Querying the system with: '{question}'")
-        
-        # Get context separately for display
-        retrieved_docs = self.retriever.invoke(question)
-        
-        print("\n--- Retrieved Context Chunks ---")
-        for i, doc in enumerate(retrieved_docs):
-            print(f"Chunk {i+1}:\n{doc.page_content}\n")
-            print(f"Source: {doc.metadata.get('sourcepage', 'N/A')}\n---")
-
-        # Get answer
+        """Asks a question to the RAG chain and returns the answer."""
+        if not question:
+            return "Please provide a question."
+            
         answer = self.rag_chain.invoke(question)
-        
-        print("\n🤖 Generated Answer:")
-        print(answer)
+        return answer
 
 
 if __name__ == "__main__":

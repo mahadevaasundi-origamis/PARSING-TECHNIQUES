@@ -1,3 +1,6 @@
+# Install uv if you are running pip using uv pip
+uv
+
 # Core Data Processing
 pandas
 numpy
@@ -23,3 +26,6 @@ langchain-core
 langchain-community
 langchain-text-splitters
 langchain-ollama
+fastapi
+uvicorn
+python-multipart

@@ -1,6 +1,6 @@
 import os
-from Rags.chunker import DocumentChunker
-from Rags.embeddding_generator import EmbeddingGenerator
+from rags.chunker import DocumentChunker
+from rags.embeddding_generator import EmbeddingGenerator
 
 # --- Master Configuration for the Pipeline ---
 

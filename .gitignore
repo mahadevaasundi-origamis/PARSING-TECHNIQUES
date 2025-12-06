@@ -19,3 +19,7 @@ venv
 myenv
 env
 Rags/chroma_db
+rags/file_data
+rags/source_data
+uploaded_files
+# testing_files

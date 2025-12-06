@@ -13,14 +13,13 @@ class PDFParser:
     A comprehensive PDF parser that extracts structured content including text, tables, and images,
     and merges consecutive blocks across pages.
     """
-    def __init__(self, min_width=200, min_height=200, min_area=1000, ollama_model="gemma3:latest", ollama_img_summarizer_model="moondream:v2", ollama_url="http://localhost:11434/api/generate"):
+    def __init__(self, min_width=200, min_height=200, min_area=1000, ollama_model="gemma3:latest", ollama_img_summarizer_model="moondream:v2"):
 
         self.min_width = min_width
         self.min_height = min_height
         self.min_area = min_area
         self.ollama_img_summarizer_model = ollama_img_summarizer_model
         self.ollama_model = ollama_model
-        self.ollama_url = ollama_url
         self.image_prompt = (
             "Analyze this image. "
             "1. Identify the type of image (e.g., photograph, chart, diagram, screenshot)."
@@ -73,32 +72,6 @@ class PDFParser:
                             b64 = obj.get("base64")
                             if b64:
                                 obj["image_description"] = self._describe_base64_image(b64)                          
-        return data
-    
-    def add_table_descriptions(self, data):
-        """Attach table descriptions to table entries in the data."""
-        for item in data:
-            if item.get("content_type") == "table":
-                table_content = item.get("page_content", "")
-                if table_content:
-                    prompt = (
-                        "Analyze the following table data and provide a concise summary of its contents, \n\n"
-                        f"{table_content}"
-                    )
-                    try:
-                        payload = {
-                            "model": self.ollama_model,
-                            "prompt": prompt,
-                            "stream": False
-                        }
-                        r = requests.post(self.ollama_url, json=payload, timeout=180)
-                        r.raise_for_status()
-                        resp = r.json()  # <-- use a different name
-                        table_summary = (resp.get("response") or "").strip()
-                        item["table_description"] = table_summary
-                    except Exception as e:
-                        print(f"Error generating table description: {e}")
-                        item["table_description"] = f"[Error generating description: {e}]"
         return data
     
     def extract_structured_json(self, file_path: str):
@@ -324,7 +297,6 @@ class PDFParser:
             final_data = extracted_data
         
         final_data = self._add_image_descriptions(final_data)
-        final_data = self.add_table_descriptions(final_data)
 
         # Add 'title': file_name to every item in the list
         for item in final_data:

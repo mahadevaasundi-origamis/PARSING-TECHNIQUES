@@ -52,10 +52,11 @@ class DocumentChunker:
     def _format_text_chunks(self, raw_chunks_list, parent_id, id_prefix, title, content_type, sourcepage, category):
         """
         Internal method: Formats text and table chunks into dictionaries with IDs.
+        Updated to include table_description if provided.
         """
         formatted_chunks = []
-        for index, chunk_text in enumerate(raw_chunks_list):
-            formatted_chunks.append({
+        for index, chunk_text in enumerate(raw_chunks_list, start=1):
+            chunk_dict = {
                 "id": f"{id_prefix}_{index}",
                 "parent_id": parent_id,
                 "title": title,
@@ -63,7 +64,9 @@ class DocumentChunker:
                 "sourcepage": sourcepage,
                 "category": category,
                 "content": chunk_text
-            })
+            }
+                
+            formatted_chunks.append(chunk_dict)
         return formatted_chunks
 
     def _format_image_chunks(self, image_list, parent_id, id_prefix, title, content_type, sourcepage, category):
@@ -71,7 +74,7 @@ class DocumentChunker:
         Internal method: Formats image chunks with IDs and Title.
         """
         formatted_chunks = []
-        for index, img_obj in enumerate(image_list):
+        for index, img_obj in enumerate(image_list, start=1):
             formatted_chunks.append({
                 "id": f"{id_prefix}_{index}",
                 "parent_id": parent_id,
@@ -88,11 +91,16 @@ class DocumentChunker:
     def process_data(self, data):
         """
         Process a list of dictionaries (the loaded JSON data). 
-        Returns the modified list with added chunks and IDs.
+        Returns a single FLAT list of all chunk dictionaries.
+        Updated to ensure unique IDs for multiple elements on the same page.
         """
-        processed_data = data  # Modify in place or copy if preferred
+        all_chunks = []
+        
+        # Dictionary to track how many elements exist per page 
+        # Key: "Title_PageNo", Value: integer counter
+        page_counters = {}
 
-        for entry in processed_data:
+        for entry in data:
             # Generate Common Parent ID if missing
             if "element_id" not in entry:
                 entry["element_id"] = str(uuid.uuid4())
@@ -103,40 +111,60 @@ class DocumentChunker:
             content = entry.get("page_content")
             sourcepage = entry.get("sourcepage") or None
             
-            # Get Title (default to 'doc' if missing)
-            raw_title = entry.get("title") or None
-            # Clean title: Remove spaces and special chars to make a clean ID (e.g., "My File" -> "MyFile")
+            # Get Title and Page
+            raw_title = entry.get("title") or "doc"
             clean_title_str = str(raw_title).replace(".", "_")
             clean_title = "".join(x for x in clean_title_str if x.isalnum() or x in ['_', '-'])
-            page_no = entry.get("page_no") or None
-            # Construct the prefix: title_pageno
-            id_prefix = f"{clean_title}_{page_no}"
+            page_no = entry.get("page_no") or "0"
+            
+            # --- UNIQUE ID LOGIC START ---
+            page_key = f"{clean_title}_{page_no}"
+            element_index = page_counters.get(page_key, 1)
+            page_counters[page_key] = element_index + 1
+            id_prefix = f"{clean_title}_{page_no}_{element_index}"
+            # --- UNIQUE ID LOGIC END ---
 
-            # Initialize empty chunks list
-            entry["chunks"] = []
+            current_chunks = []
 
             # --- CASE 1: TEXT ---
             if content_type == "text" and isinstance(content, str):
                 raw_text_chunks = self.text_splitter.split_text(content)
-                entry["chunks"] = self._format_text_chunks(raw_text_chunks, parent_id, id_prefix, raw_title, content_type, sourcepage, category)
+                current_chunks = self._format_text_chunks(
+                    raw_text_chunks, parent_id, id_prefix, raw_title, content_type, sourcepage, category
+                )
             
             # --- CASE 2: TABLE ---
             elif content_type == "table" and isinstance(content, str):
                 raw_table_chunks = self._chunk_markdown_table(content)
-                entry["chunks"] = self._format_text_chunks(raw_table_chunks, parent_id, id_prefix, raw_title, content_type, sourcepage, category)
+                current_chunks = self._format_text_chunks(
+                    raw_table_chunks, parent_id, id_prefix, raw_title, content_type, sourcepage, category)
 
             # --- CASE 3: IMAGE ---
             elif content_type == "image" and isinstance(content, list):
-                entry["chunks"] = self._format_image_chunks(content, parent_id, id_prefix, raw_title, content_type, sourcepage, category)
+                current_chunks = self._format_image_chunks(
+                    content, parent_id, id_prefix, raw_title, content_type, sourcepage, category
+                )
             
-            # drop unnecessary fields using pop
-            entry.pop("content_type", None)
-            entry.pop("category", None)
-            entry.pop("page_no", None)
-            entry.pop("title", None)
-            entry.pop("sourcepage", None)
+            if current_chunks:
+                all_chunks.extend(current_chunks)
+
+            # --- NEW LOGIC: ADD NEIGHBOUR IDS ---
+        total_chunks = len(all_chunks)
+        for i in range(total_chunks):
+            neighbors = []
+            
+            # Check for previous chunk (if not the first item)
+            if i > 0:
+                neighbors.append(all_chunks[i-1]["id"])
+            
+            # Check for next chunk (if not the last item)
+            if i < total_chunks - 1:
+                neighbors.append(all_chunks[i+1]["id"])
+            
+            # Assign the list to the current chunk
+            all_chunks[i]["neighbour"] = neighbors
         
-        return processed_data
+        return all_chunks
 
     def process_file(self, input_file_path, output_file_path):
         """

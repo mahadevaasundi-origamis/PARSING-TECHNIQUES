@@ -15,3 +15,6 @@ pdf_with_image_descriptions.json
 text_and_image_structured.json
 enriched_rag_data.json
 text_and_image_processor.py
+venv
+myenv
+env

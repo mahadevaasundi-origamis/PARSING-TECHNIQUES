@@ -18,3 +18,4 @@ text_and_image_processor.py
 venv
 myenv
 env
+Rags/chroma_db

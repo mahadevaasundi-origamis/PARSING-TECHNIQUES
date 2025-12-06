@@ -1,7 +1,25 @@
+# Core Data Processing
 pandas
 numpy
 scikit-learn
+
+# Document Processing & OCR
 python-doctr
 layoutparser[ocr]
-langchain-docling
 docling
+langchain-docling
+pymupdf
+
+# Vector Database
+chromadb
+
+# ML & Embeddings
+huggingface_hub[hf_xet]
+sentence-transformers
+
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama

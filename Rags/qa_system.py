@@ -3,8 +3,9 @@ from langchain_community.vectorstores import Chroma
 from langchain_community.chat_models.ollama import ChatOllama
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.runnables import RunnablePassthrough
+from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 from langchain_core.output_parsers import StrOutputParser
+from typing import List
 
 # --- Configuration ---
 CHROMA_PERSIST_DIRECTORY = "d:/GitHub/Learning/PARSING-TECHNIQUES/Rags/chroma_db"
@@ -33,47 +34,144 @@ class QASystem:
         )
         print(f"✅ Vector store loaded from '{db_path}' with {self.vector_store._collection.count()} documents.")
 
-        # 3. Create a Retriever
-        self.retriever = self.vector_store.as_retriever(search_kwargs={"k": 3})
+        # 3. Create a Retriever with optimized search parameters
+        # Increased k to 5 to provide more context to the LLM
+        self.retriever = self.vector_store.as_retriever(search_kwargs={"k": 5})
         print("✅ Retriever created.")
 
         # 4. Define the RAG Prompt Template
-        rag_template = """Answer the user's question based solely on the following context.
-If the context does not contain the answer, state that you cannot find the information in the provided documents.
+        rag_template = """You are an expert assistant. Answer the user's question based ONLY on the following context.
+Provide a concise, direct, and informative answer. If the answer is found in the context, cite the source.
+If the information is not in the context, say "I could not find this information in the provided documents."
 
 <context>
 {context}
 </context>
 
-Question: {input}
-"""
+Question: {question}
+Answer:"""
         rag_prompt = ChatPromptTemplate.from_template(rag_template)
 
         # 5. Initialize the LLM
-        llm = ChatOllama(model=llm_model)
+        llm = ChatOllama(model=llm_model, temperature=0.2)
         print(f"✅ LLM model '{llm_model}' initialized.")
 
-        # 6. Create the RAG Chain using LCEL
-        def format_docs(docs):
-            return "\n\n".join(doc.page_content for doc in docs)
+        # 6. Format retrieved documents with metadata
+        def format_docs(docs: List) -> str:
+            """Format retrieved documents with their metadata."""
+            if not docs:
+                return "No relevant documents found."
+            
+            formatted = []
+            for idx, doc in enumerate(docs, 1):
+                title = doc.metadata.get('title', 'Unknown')
+                sourcepage = doc.metadata.get('sourcepage', 'N/A')
+                content = doc.page_content.strip()
+                
+                formatted.append(
+                    f"[Document {idx}]\n"
+                    f"Source: {title}\n"
+                    f"Page: {sourcepage}\n"
+                    f"Content: {content}"
+                )
+            
+            return "\n\n".join(formatted)
 
+        # 7. Create the RAG Chain
+        # FIXED: Simplified chain without the problematic retrieval_gate
         self.rag_chain = (
-            {"context": self.retriever | format_docs, "input": RunnablePassthrough()}
+            {
+                "context": self.retriever | format_docs,
+                "question": RunnablePassthrough()
+            }
             | rag_prompt
             | llm
             | StrOutputParser()
         )
+
         print("✅ RAG chain created and ready.")
 
-    def ask_question(self, question: str):
-        """Asks a question to the RAG chain and returns the answer."""
-        if not question:
-            return "Please provide a question."
+    def ask_question(self, question: str) -> str:
+        """
+        Asks a question to the RAG chain and returns the answer.
+        
+        Args:
+            question: The user's question
             
-        answer = self.rag_chain.invoke(question)
-        return answer
+        Returns:
+            The answer from the RAG system
+        """
+        if not question or not question.strip():
+            return "Please provide a valid question."
+
+        print(f"\n{'='*70}")
+        print(f"🔎 Question: '{question}'")
+        print(f"{'='*70}")
+        
+        try:
+            # Invoke the chain
+            answer = self.rag_chain.invoke(question)
+            
+            print(f"💡 Answer:\n{answer}")
+            print(f"{'='*70}\n")
+            
+            return answer
+            
+        except Exception as e:
+            error_msg = f"Error processing question: {str(e)}"
+            print(f"✗ {error_msg}")
+            return error_msg
+
+    def search_similar(self, query: str, k: int = 5) -> List[dict]:
+        """
+        Search for similar documents without asking a full question.
+        Useful for debugging retrieval.
+        
+        Args:
+            query: Search query
+            k: Number of results to return
+            
+        Returns:
+            List of similar documents with metadata
+        """
+        print(f"\n🔍 Searching for: '{query}'")
+        
+        docs = self.retriever.invoke(query)
+        
+        results = []
+        for idx, doc in enumerate(docs, 1):
+            result = {
+                "rank": idx,
+                "title": doc.metadata.get('title', 'Unknown'),
+                "sourcepage": doc.metadata.get('sourcepage', 'N/A'),
+                "chunk_id": doc.metadata.get('id', 'N/A'),
+                "content_preview": doc.page_content[:200] + "..." if len(doc.page_content) > 200 else doc.page_content
+            }
+            results.append(result)
+            print(f"\n[Result {idx}] {result['title']}")
+            print(f"   Source: {result['sourcepage']}")
+            print(f"   Preview: {result['content_preview']}")
+        
+        return results
 
 
 if __name__ == "__main__":
-    qa_system = QASystem(CHROMA_PERSIST_DIRECTORY, COLLECTION_NAME, OLLAMA_EMBEDDING_MODEL, OLLAMA_LLM_MODEL)
-    qa_system.ask_question("What is the total invoice amount?")
+    qa_system = QASystem(
+        CHROMA_PERSIST_DIRECTORY,
+        COLLECTION_NAME,
+        OLLAMA_EMBEDDING_MODEL,
+        OLLAMA_LLM_MODEL
+    )
+    
+    # Test with the original question
+    question = "Briefly discuss how Cortex-M3 address the requirements of the 32-bit embedded processor market"
+    
+    print("\n" + "="*70)
+    print("TEST 1: Document Retrieval")
+    print("="*70)
+    qa_system.search_similar(question, k=10)
+    
+    print("\n" + "="*70)
+    print("TEST 2: Full RAG Question-Answer")
+    print("="*70)
+    qa_system.ask_question(question)

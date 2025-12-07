@@ -1,5 +1,6 @@
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 import os
 import uuid
 from typing import List, Dict, Any
@@ -11,7 +12,20 @@ from .chromadb import ChromaDBManager
 from .qa_system import QASystem
 from .document_process import PDFParser
 
-app = FastAPI()
+app = FastAPI(
+    title="RAG Document Processing API",
+    description="Upload, process, and query documents using RAG",
+    version="1.0.0"
+)
+
+# Enable CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # --- Configuration ---
 UPLOAD_DIRECTORY = "uploaded_files"
@@ -69,10 +83,26 @@ def update_status(file_id: str, step: str, status: str, details: str = ""):
         "timestamp": datetime.now().isoformat()
     }
 
+@app.get("/health")
+async def health_check():
+    """Health check endpoint."""
+    return JSONResponse(
+        content={
+            "status": "healthy",
+            "vector_store": f"Connected ({db_manager.collection.count()} documents)"
+        },
+        status_code=200
+    )
+
 @app.post("/upload/")
 async def upload_file(file: UploadFile = File(...)):
     """
     Uploads a file and saves it to the server.
+    
+    Returns:
+        - file_id: Unique identifier for the uploaded file
+        - file_name: Original filename
+        - message: Confirmation message
     """
     try:
         file_id = str(uuid.uuid4())
@@ -88,7 +118,8 @@ async def upload_file(file: UploadFile = File(...)):
             content={
                 "message": "File uploaded successfully",
                 "file_id": file_id,
-                "file_name": file.filename
+                "file_name": file.filename,
+                "next_step": f"POST /process/{file_id}"
             },
             status_code=201
         )
@@ -109,7 +140,7 @@ async def process_file(file_id: str, skip_image_descriptions: bool = False):
         skip_image_descriptions: If True, skips image description generation (faster)
     
     Returns:
-        Processing status with step-by-step results
+        Processing results with statistics and intermediate file paths
     """
     file_path = get_file_path(file_id)
     if not file_path:
@@ -193,12 +224,14 @@ async def process_file(file_id: str, skip_image_descriptions: bool = False):
             "statistics": {
                 "content_blocks": len(data),
                 "chunks_created": len(chunks),
-                "documents_indexed": len(documents)
+                "documents_indexed": len(documents),
+                "total_vector_store_docs": db_manager.collection.count()
             },
             "intermediate_files": {
                 "parsed_json": parsed_json_path,
                 "chunks_json": chunks_json_path
             },
+            "next_step": f"GET /qa/?query=your_question",
             "status": processing_status.get(file_id, {})
         }
         
@@ -239,6 +272,9 @@ async def process_file(file_id: str, skip_image_descriptions: bool = False):
 async def get_processing_status(file_id: str):
     """
     Get the processing status of a file.
+    
+    Returns:
+        Processing steps with timestamps and statuses
     """
     if file_id not in processing_status:
         raise HTTPException(status_code=404, detail="No status found for this file_id")
@@ -246,9 +282,12 @@ async def get_processing_status(file_id: str):
     return JSONResponse(content=processing_status[file_id], status_code=200)
 
 @app.get("/files/")
-async def get_files() -> List[Dict[str, str]]:
+async def get_files() -> List[Dict[str, Any]]:
     """
     Lists all uploaded files with their processing status.
+    
+    Returns:
+        List of files with file_id, file_name, and processing status
     """
     files = []
     for filename in os.listdir(UPLOAD_DIRECTORY):
@@ -285,28 +324,86 @@ async def get_chunks(file_id: str):
 async def search(query: str, n_results: int = 5):
     """
     Performs a similarity search in the vector store.
+    
+    Args:
+        query: Search query string
+        n_results: Number of results to return (default: 5)
+    
+    Returns:
+        List of similar documents with metadata
     """
     if not query:
         raise HTTPException(status_code=400, detail="Query text cannot be empty.")
     
     try:
+        print(f"\n🔍 Search query: {query}")
         results = db_manager.search(query_text=query, n_results=n_results)
-        return JSONResponse(content=results, status_code=200)
+        
+        # Format results for better readability
+        formatted_results = {
+            "query": query,
+            "num_results": 0,
+            "results": []
+        }
+        
+        if not results:
+            return JSONResponse(content=formatted_results, status_code=200)
+        
+        # Chroma returns nested lists: {"ids": [[...]], "documents": [[...]], "metadatas": [[...]]}
+        ids = results.get("ids", [[]])[0] if results.get("ids") else []
+        documents = results.get("documents", [[]])[0] if results.get("documents") else []
+        metadatas = results.get("metadatas", [[]])[0] if results.get("metadatas") else []
+        distances = results.get("distances", [[]])[0] if results.get("distances") else []
+        
+        formatted_results["num_results"] = len(ids)
+        
+        # Zip results together
+        for idx, (doc_id, content, metadata) in enumerate(zip(ids, documents, metadatas), 1):
+            distance = distances[idx - 1] if idx - 1 < len(distances) else None
+            
+            formatted_results["results"].append({
+                "rank": idx,
+                "id": doc_id,
+                "distance": round(distance, 4) if distance else None,
+                "title": metadata.get("title", "Unknown") if isinstance(metadata, dict) else "Unknown",
+                "sourcepage": metadata.get("sourcepage", "N/A") if isinstance(metadata, dict) else "N/A",
+                "content_preview": content[:300] + "..." if len(content) > 300 else content
+            })
+        
+        return JSONResponse(content=formatted_results, status_code=200)
     except Exception as e:
+        import traceback
+        print(f"Search error: {traceback.format_exc()}")
         raise HTTPException(status_code=500, detail=f"Search failed: {str(e)}")
 
 @app.get("/qa/")
 async def qa(query: str):
     """
-    Asks a question to the QA system.
+    Asks a question to the RAG QA system.
+    The system retrieves relevant documents and generates an answer.
+    
+    Args:
+        query: The question to ask
+    
+    Returns:
+        The answer based on retrieved documents
     """
     if not query:
         raise HTTPException(status_code=400, detail="Query text cannot be empty.")
     
     try:
+        print(f"\n❓ QA Query: {query}")
         answer = qa_system.ask_question(query)
-        return JSONResponse(content={"query": query, "answer": answer}, status_code=200)
+        
+        return JSONResponse(
+            content={
+                "query": query,
+                "answer": answer
+            },
+            status_code=200
+        )
     except Exception as e:
+        print(f"✗ QA Error: {str(e)}")
         raise HTTPException(status_code=500, detail=f"QA failed: {str(e)}")
 
 @app.delete("/files/{file_id}")
@@ -339,7 +436,10 @@ async def delete_file(file_id: str):
             del processing_status[file_id]
 
         return JSONResponse(
-            content={"message": f"File {file_id} and its associated chunks have been deleted."},
+            content={
+                "message": f"File {file_id} and its associated chunks have been deleted.",
+                "total_remaining_docs": db_manager.collection.count()
+            },
             status_code=200
         )
     except Exception as e:
@@ -352,7 +452,13 @@ async def delete_chunk(chunk_id: str):
     """
     try:
         db_manager.delete_chunk_by_id(chunk_id)
-        return JSONResponse(content={"message": f"Chunk {chunk_id} has been deleted."}, status_code=200)
+        return JSONResponse(
+            content={
+                "message": f"Chunk {chunk_id} has been deleted.",
+                "total_remaining_docs": db_manager.collection.count()
+            },
+            status_code=200
+        )
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to delete chunk: {str(e)}")
 
@@ -373,11 +479,18 @@ async def get_chunk(chunk_id: str):
 async def clear_collection():
     """
     Clears the entire collection.
+    ⚠️ Warning: This action is irreversible!
     """
     try:
         db_manager.clear_collection()
         processing_status.clear()
-        return JSONResponse(content={"message": "Collection has been cleared."}, status_code=200)
+        return JSONResponse(
+            content={
+                "message": "Collection has been cleared.",
+                "documents_remaining": 0
+            },
+            status_code=200
+        )
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to clear collection: {str(e)}")
 
